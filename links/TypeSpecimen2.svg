@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 432 360">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #070707;
+      }
+
+      .st0, .st1, .st2, .st3 {
+        font-family: AGaramondPro-Regular, 'Adobe Garamond Pro';
+        font-size: 150px;
+      }
+
+      .st2 {
+        fill: #f7f5f5;
+      }
+
+      .st3 {
+        fill: #020202;
+      }
+    </style>
+  </defs>
+  <text class="st1" transform="translate(18.52 352.8)"><tspan x="0" y="0">Aa</tspan></text>
+  <text class="st2" transform="translate(14.67 356.67)"><tspan x="0" y="0">Aa</tspan></text>
+  <text class="st3" transform="translate(143.08 255.93)"><tspan x="0" y="0">Bb</tspan></text>
+  <text class="st2" transform="translate(136.86 255.93)"><tspan x="0" y="0">Bb</tspan></text>
+  <text class="st0" transform="translate(241.62 131.35)"><tspan x="0" y="0">Cc</tspan></text>
+  <text class="st2" transform="translate(235.02 131.35)"><tspan x="0" y="0">Cc</tspan></text>
+</svg>
